@@ -7,7 +7,7 @@ Referências para o desenvolvimento dos projetos
 3. [Android Studio](https://developer.android.com/studio/)
 
 ## As melhores práticas
-1. [Boas práticas para aplicativos Android](http://pt.slideshare.net/JulianaAkemi2/boas-praticas-para-aplicativos-android
+1. [Boas práticas para aplicativos Android](http://pt.slideshare.net/JulianaAkemi2/boas-praticas-para-aplicativos-andri)
 2. [Lições aprendidas por programadores Android na Futurice](https://github.com/futurice/android-best-practices/blob/master/translations/Portuguese/README.pt.md)
 2. [10 erros que todo desenvolvedor Android deve evitar](https://tasafo.wordpress.com/2015/04/13/10-erros-que-todo-desenvolvedor-android-deve-evitar/)
 3. [Melhores práticas ao implementar requisições no Android](http://pt.stackoverflow.com/questions/81976/melhores-pr%C3%A1ticas-ao-implementar-requisi%C3%A7%C3%B5es-no-android)
