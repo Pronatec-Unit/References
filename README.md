@@ -19,3 +19,7 @@ Referências para o desenvolvimento dos projetos
 3. [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
 4. [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu)
 5. [Common Utils SDK](https://github.com/CommonUtils/android)
+
+## Cursos
+
+1. [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
