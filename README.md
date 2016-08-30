@@ -23,10 +23,8 @@ Referências para o desenvolvimento dos projetos
 ## Cursos
 
 1. [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
-<<<<<<< HEAD
-
-
-##Recursos Javas 
-=======
 2. [Android Basics: Multi-screen Apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839)
->>>>>>> origin/master
+
+## Recursos Git
+
+1. [GitHub Desktop](https://desktop.github.com/)
