@@ -32,5 +32,6 @@ Referências para o desenvolvimento dos projetos
 
 ## Vídeoaulas
 
-1. [Curso de android]()
-2. [curso de Python](https://www.youtube.com/watch?v=j94IGZmwtYI)
+1. [Curso de android](https://www.youtube.com/watch?v=vvNLARn3v9I)
+2. [Novo Curso de Android Studio - Aula 01 - O Básico do Android Studio](https://www.youtube.com/watch?v=GvCUQFtbjiI)
+3. [curso de Python](https://www.youtube.com/watch?v=j94IGZmwtYI)
