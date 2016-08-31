@@ -1,4 +1,4 @@
-# References
+﻿# References
 Referências para o desenvolvimento dos projetos
 
 ## Android para desenvolvedores 
@@ -33,3 +33,4 @@ Referências para o desenvolvimento dos projetos
 ## Vídeoaulas
 
 1. [Curso de android]()
+2. [curso de Python](https://www.youtube.com/watch?v=j94IGZmwtYI)
