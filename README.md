@@ -28,3 +28,8 @@ Referências para o desenvolvimento dos projetos
 ## Recursos Git
 
 1. [GitHub Desktop](https://desktop.github.com/)
+2. [Android Studio](https://developer.android.com/studio/index.html)
+
+## Vídeoaulas
+
+1. [Curso de android]()
