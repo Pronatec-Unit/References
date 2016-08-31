@@ -32,4 +32,4 @@ Referências para o desenvolvimento dos projetos
 
 ## Vídeoaulas
 
-1. [Curso de android](https://www.youtube.com/watch?v=vvNLARn3v9I)
+1. [Curso de android]()
