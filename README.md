@@ -1,4 +1,4 @@
-# References
+﻿# References
 Referências para o desenvolvimento dos projetos
 
 ## Android para desenvolvedores 
@@ -34,3 +34,4 @@ Referências para o desenvolvimento dos projetos
 
 1. [Curso de android](https://www.youtube.com/watch?v=vvNLARn3v9I)
 2. [Novo Curso de Android Studio - Aula 01 - O Básico do Android Studio](https://www.youtube.com/watch?v=GvCUQFtbjiI)
+3. [curso de Python](https://www.youtube.com/watch?v=j94IGZmwtYI)
