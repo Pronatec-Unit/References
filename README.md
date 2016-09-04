@@ -29,9 +29,3 @@ Referências para o desenvolvimento dos projetos
 
 1. [GitHub Desktop](https://desktop.github.com/)
 2. [Android Studio](https://developer.android.com/studio/index.html)
-
-## Vídeoaulas
-
-1. [Curso de android](https://www.youtube.com/watch?v=vvNLARn3v9I)
-2. [Novo Curso de Android Studio - Aula 01 - O Básico do Android Studio](https://www.youtube.com/watch?v=GvCUQFtbjiI)
-3. [curso de Python](https://www.youtube.com/watch?v=j94IGZmwtYI)
